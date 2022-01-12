@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: ./s1.html
+    destination: /
